@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1429704265 source:f:\program\practice\c++\四则运算\caculater\list.cpp
+	"all.h"
+
+1429704356 f:\program\practice\c++\四则运算\caculater\list.h
+	<iostream>
+
+1429704672 source:f:\program\practice\c++\四则运算\caculater\four arithmetic operation.cpp
+	"all.h"
+
+1429701923 f:\program\practice\c++\四则运算\caculater\all.h
+	<fstream>
+	<string.h>
+	<malloc.h>
+	"list.h"
+
+1430242846 source:f:\program\practice\c++\四则运算\caculater\main.cpp
+	"stack.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1430238946 f:\program\practice\c++\四则运算\caculater\stack.h
+	<iostream>
+	<fstream>
+	<malloc.h>
+	<string.h>
+
+1429959102 source:f:\program\practice\c++\四则运算\caculater\stack.cpp
+

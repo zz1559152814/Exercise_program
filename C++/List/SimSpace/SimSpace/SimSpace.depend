@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1431870087 source:f:\program\practice\c++\list\simspace\simspace\main.cpp
+	<iostream>
+	"SimSpace.h"
+	"exception.h"
+
+1433560236 f:\program\practice\c++\list\simspace\simspace\simspace.h
+	<iostream>
+	<SimChain.h>
+
+1431869890 f:\program\practice\c++\list\simspace\simspace\exception.h
+	<iostream>
+
+1432476342 f:\program\practice\c++\list\simspace\simspace\simnode.h
+	<iostream>
+	"exception.h"
+	"SimSpace.h"
+

@@ -1,0 +1,4 @@
+dream@ubuntu:~/program/nasm$ nasm -f elf32 hello.asm
+dream@ubuntu:~/program/nasm$ gcc -o hello hello.o
+dream@ubuntu:~/program/nasm$ ./hello
+
